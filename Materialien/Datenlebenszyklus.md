@@ -1,4 +1,4 @@
-# Darenlebenszyklus
+# Datenlebenszyklus
 
 Hier kommt Info zum Datenlebenszyklus
 

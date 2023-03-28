@@ -31,3 +31,64 @@
 ## Videos
 
 [10min Video](https://www.youtube.com/watch?v=HMYpfwItUiY&list=PLID58IQe16nE-1980HOGDWsvf0skE2jvS&index=16): Find (relevant) Data (Englisch)
+
+
+# Daten
+
+## Daten, Datentypen & Datenformate
+
+- **Daten** sind einzelne Fakten oder Beobachtungen, die aber noch nicht strukturiert sind.
+- **Information** kann aus Daten abgeleitet werden, in dem man diese sortiert, strukturiert und zusammenführt.
+- **Wissen** beschreibt Zusammenhänge, Regeln und Theorien.
+- **Weisheit** zielt auf die Bewertung des Wissens und der möglichen Handlungen ab.
+
+*Quelle:* DaLI / DIKW Hierarchie
+
+### Forschungsdaten
+
+Forschungsdaten sind (digitale) Daten, die während wissenschaftlicher Tätigkeit (z. B. durch Messungen, Befragungen, Quellenarbeit) entstehen. Sie bilden eine Grundlage wissenschaftlicher Arbeit und dokumentieren deren Ergebnisse.
+
+Quelle: [forschungsdaten.info](https://forschungsdaten.info/themen/informieren-und-planen/was-sind-forschungsdaten/)
+
+![Forschunsdaten](img/FD_Mirjam.PNG)
+*Quelle: Mirjams FDM-Kurs*
+
+## Videos
+[2min Video](https://youtu.be/cMP9v7Se6cY): FDM erklärt ([Quelle: H-BRS](https://www.h-brs.de/de/bib/forschungsdatenmanagement))
+
+### Von DaLI
+[3min Video](https://www.cedis.fu-berlin.de/services/e-learning/dataliteracy/lehrvideos/intro-data-literacy/index.html): Was ist Data Literacy
+
+[10min Video](https://www.youtube.com/watch?v=yhO_t-c3yJY): Data, Data Forms & Data Literacy (Englisch) → komplette Playlist (16 Videos): [Arizona State University "Data Literacy" Study Hall](https://www.youtube.com/watch?v=0H8awA3GBPg&list=PLID58IQe16nE-1980HOGDWsvf0skE2jvS)
+
+
+# Datenlebenszyklus
+
+Hier kommt Info zum Datenlebenszyklus
+
+Hier könnte dann z. B. ein Quiz stehen.
+
+Welche Phasen gehören in den Datenlebenszyklus? 
+[( )] 1, 2 und 3
+[(X)] 2, 3 und 4
+[(X)] 1, 3 und 4
+[( )] Alle
+
+<div class="answer">
+Answers given
+</div>
+
+
+# Dokumentation
+
+Hier kommt Info zur Doku
+
+
+# Strukturieren und Ordnen
+
+Hier kommt Info zum Strukturieren und Ordnen
+
+
+# Rechtliche Aspekte
+
+Hier kommt Info zu den rechtlichen Aspekten
