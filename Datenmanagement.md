@@ -1,6 +1,4 @@
-# Datenmanagement
-
-## HIP
+# HIP
 Hochschulweite interdisziplinäre Projektwoche Sommersemester 2023.
 
 **Das Universum der Daten: Verwundbarkeit und Zukunft datenbasierter Gesellschaften.**
