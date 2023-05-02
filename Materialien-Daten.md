@@ -1,4 +1,4 @@
-# HIP – Materialen zum Thema Daten
+# HIP – Materialien zum Thema Daten
 **Blick auf unseren Planeten: Die Verwundbarkeit (und Zukunft) unserer Datenuniversen**
 
 Daten nehmen insbesondere mit zunehmender Digitalisierung immer mehr an Bedeutung zu. Sie umgeben uns und bestimmen unseren Alltag. Der richtige Umgang mit Daten ist daher von großer Wichtigkeit. Daher beschäftigen wir uns in der HIP (im SoSe23) näher mit dem Thema „Datenuniversen”.
