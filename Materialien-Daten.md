@@ -30,13 +30,17 @@ Offene Datenportale erleichtern den Zugang zu und die Wiederverwendung von Infor
 Beispiele für Metasuchmaschinen/Datenportale:
 
 * [DataCite Commons](https://commons.datacite.org/) → unterstützt die Suche in registrierten Datensätzen
+
     * [Tutorial](https://www.youtube.com/watch?v=XXEMEhEnrGs&list=PLNfmVgA6BeiRmsql_nfMWz_jsVxUf3_GZ&index=8), englisch (3:26 Min.)
 
 * [BASE](https://www.base-search.net/) → Suchmaschine für wissenschaftliche Webdokumente
-    * [Tutorial](https://www.youtube.com/watch?v=cu4JYtyAXQo), deutsch (3:10 Min.)
-    * Unter „Suchergebnis eingrenzen”: „Dokumentart” → „Forschungsdaten”; „Nachnutzung” → „Open Access”
 
+    * [Tutorial](https://www.youtube.com/watch?v=cu4JYtyAXQo), deutsch (3:10 Min.)
+    
+    * Unter „Suchergebnis eingrenzen”: „Dokumentart” → „Forschungsdaten”; „Nachnutzung” → „Open Access”
+    
 * [Google Dataset Search](https://datasetsearch.research.google.com/) → Durchsucht laut Google Millionen von Datensätze in tausenden Repositorien
+
     * [Tutorial](https://www.youtube.com/watch?v=XWWGHsF0k3w), englisch (3:28Min.).
 
 * [govdata](https://www.govdata.de/) → bietet Zugang zu offenen Daten von Bundes-, Landes- und Kommunalverwaltungen in Deutschland
@@ -52,6 +56,7 @@ Beispiele für Repositorien / Suche in Repositorien :
 * [re3data](https://www.re3data.org/browse/by-subject/) → Suche nach fachspezifischen Repositorien [hier](https://www.re3data.org/browse/by-subject/).
 
     * [Tutorial](https://www.youtube.com/watch?v=38_ETsB06I4), deutsch (2:59 Min.).
+    
     * [Tutorial](https://www.youtube.com/watch?v=cutUrqJqjp4), englisch, detaillierter (4:11 Min.).
 
 * [Zenodo](https://zenodo.org/) → disziplinübergreifende Suche
