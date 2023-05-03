@@ -145,7 +145,11 @@ oder
 
 (Quelle: Weiner, Barbara, Wünsche, Stephan, Kühne, Stefan, Voigt, Pia, Frericks, Sebastian, Hoffmann, Clemens, Elze, Romy, & Gey, Ronny. (2020, April 30). Crashkurs Forschungsdatenmanagement. Zenodo. https://doi.org/10.5281/zenodo.3778431)
 
-Testen Sie in [diesem Quiz](https://app.Lumi.education/run/72k9s5) Ihre Wissen zum Thema „Daten Speichern”.
+>Testen Sie in [diesem Quiz](https://app.Lumi.education/run/72k9s5) Ihr Wissen zum Thema „Daten Speichern”.
+
+ODER 
+
+>Scannen Sie den QR-Code mit Ihrem Smartphone und testen Sie in diesem Quiz Ihr Wissen zum Thema „Daten Speichern”: <img src="Materialien/img/Speichern_Test1.png">
 
 ## Daten dokumentieren
 Daten und Prozesse sollten während eines Projekts, wie die Projektarbeit in der HIP, von Anfang an dokumentiert werden. Die Dokumentation dient der Projektplanung und -durchführung, indem wichtige Fragen im Umgang mit Daten beantwortet werden. Die nachfolgenden Leitfragen können während der HIP helfen, einer ausführlichen Projektdokumentation nachzukommen.
