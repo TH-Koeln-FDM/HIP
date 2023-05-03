@@ -7,7 +7,7 @@ Daten nehmen insbesondere mit zunehmender Digitalisierung immer mehr an Bedeutun
 
 Um die Projektidee umzusetzen, ist es möglich, mit Datensätzen zu arbeiten. Aus diesem Grund werden Ihnen Hilfsmittel zur Verfügung gestellt. Neben Informationen zu den Themen „Daten finden und nachnutzen” und „Daten dokumentieren, strukturieren, ordnen & speichern” finden Sie zudem eine Checkliste, die Sie für die HIP-Woche (und darüber hinaus) verwenden können. Die Checkliste stellt sicher, dass Sie die wichtigsten Aspekte zu den Themen berücksichtigt haben.
 
-[Hier](https://github.com/TH-Koeln-FDM/HIP/blob/main/20230502_Checkliste_Leitfragen_fuer_Studis_v4.docx) kann die Checkliste heruntergeladen werden.
+> [Hier](https://github.com/TH-Koeln-FDM/HIP/blob/main/20230502_Checkliste_Leitfragen_fuer_Studis_v4.docx) kann die Checkliste heruntergeladen werden.
 
 Wir wünschen Ihnen viel Erfolg und eine gute Zusammenarbeit!
 
@@ -102,7 +102,7 @@ Die Daten müssen…
 
 * …**zugänglich** sein. Offene Daten / „Open Data” bzw. Daten mit offenen Lizenzen dürfen verwendet werden (z. B. [Creative Commons](https://creativecommons.org/licenses/?lang=de)). 
 
-    * Open Data-Symbol: <img src="Materialien/img/open_data.png"  width="2%">
+>„Open Data”-Symbol: <img src="Materialien/img/open_data.png"  width="2%">
 
 * …**zitierfähig** und **nachhaltig verfügbar** sein. Das heißt, sie verfügen über alle notwendigen Informationen und über einen Persistent Identifier (PID), wie z. B. eine DOI oder eine URN.
 * …**erschlossen** sein. Metadaten und eine Dokumentation der Daten erleichtern die Interpretation und Reproduzierbarkeit der Daten. Was wurde mit diesen Daten untersucht und als Ergebnis festgehalten? Was möchte ich untersuchen und wie unterscheidet sich das vom vorherigen Nutzen?
