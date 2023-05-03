@@ -163,27 +163,27 @@ Daten und Prozesse sollten während eines Projekts, wie die Projektarbeit in der
 
 **Inhaltliche Einordnung**
 
-* *Datensatz*: Um welche Arten von Daten handelt es sich?
+* *Datensatz:* Um welche Arten von Daten handelt es sich?
 
-* *Datenursprung*: Werden die Daten nachgenutzt oder selber erzeugt?
+* *Datenursprung:* Werden die Daten nachgenutzt oder selber erzeugt?
 
     * Wenn nachgenutzt: Wer hat die Daten erzeugt?
 
 **Rechtliche und ethische Fragen**
 
-* *Personenbezogene / sensible Daten*: Enthalten die Daten personenbezogene oder sensible Informationen? Wie werden diese Daten geschützt?
+* *Personenbezogene / sensible Daten:* Enthalten die Daten personenbezogene oder sensible Informationen? Wie werden diese Daten geschützt?
 
 **Technische Einordnung**
 
-* *Datenerhebung*: Wann wurden die Daten erhoben?
+* *Datenerhebung:* Wann wurden die Daten erhoben?
 
-* *Datengröße*: Was ist die (zu erwartende) Datengröße?
+* *Datengröße:* Was ist die (zu erwartende) Datengröße?
 
-* *Formate*: In welchen Formaten liegen die Daten vor?
+* *Formate:* In welchen Formaten liegen die Daten vor?
 
-* *Werkzeuge*: Welche Instrumente, Software, Technologien oder Verfahren (inkl. Versionsnummer und Referenz) werden zur Erzeugung, Erfassung, Bereinigung, Analyse und/oder Visualisierung der Daten genutzt?
+* *Werkzeuge:* Welche Instrumente, Software, Technologien oder Verfahren (inkl. Versionsnummer und Referenz) werden zur Erzeugung, Erfassung, Bereinigung, Analyse und/oder Visualisierung der Daten genutzt?
 
-* *Versionierung*: Werden verschiedene Versionen der Daten erzeugt (z. B. durch verschiedene Weiterbearbeitungsprozesse)?
+* *Versionierung:* Werden verschiedene Versionen der Daten erzeugt (z. B. durch verschiedene Weiterbearbeitungsprozesse)?
 
 **Speicherung**
 
@@ -201,8 +201,8 @@ Daten und Prozesse sollten während eines Projekts, wie die Projektarbeit in der
 
 **Datennutzung**
 
-* *Datenorganisation*: Wie wurden die Daten benannt? Gibt es eine Bennennungs-Strategie? Wenn ja, welche?
+* *Datenorganisation:* Wie wurden die Daten benannt? Gibt es eine Bennennungs-Strategie? Wenn ja, welche?
 
-* *Weitergabe*: Ist es geplant, die Daten nach der Aufgabe zu teilen? z. B. mit Dozenten / Studierenden? Sind bestimmte Software, Verfahren oder Technologien notwendig, um die Daten nachzunutzen? Wenn ja, welche?
+* *Weitergabe:* Ist es geplant, die Daten nach der Aufgabe zu teilen? z. B. mit Dozenten / Studierenden? Sind bestimmte Software, Verfahren oder Technologien notwendig, um die Daten nachzunutzen? Wenn ja, welche?
 
 (Nach: Institut für Bibliotheks- und Informationswissenschaft, Humboldt-Universität zu Berlin, Datenmanagementplan (DMP) für die Abschlussarbeit, 8.12.21, unter: https://www.ibi.hu-berlin.de/de/studium/rundumdasstudium/fdm-fuer-studierende/dmp_template_finale_version_dez_21.pdf)
