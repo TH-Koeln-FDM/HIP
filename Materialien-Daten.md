@@ -101,7 +101,8 @@ Um bereits erhobene und publizierte Daten nach wissenschaftlichen Standards nach
 Die Daten müssen…
 
 * …**zugänglich** sein. Offene Daten / „Open Data” bzw. Daten mit offenen Lizenzen dürfen verwendet werden (z. B. [Creative Commons](https://creativecommons.org/licenses/?lang=de)). 
-    * Open Data-Symbol: <img src="Materialien/img/open_data.png"  width="3%">
+
+    * Open Data-Symbol: <img src="Materialien/img/open_data.png"  width="2%">
 
 * …**zitierfähig** und **nachhaltig verfügbar** sein. Das heißt, sie verfügen über alle notwendigen Informationen und über einen Persistent Identifier (PID), wie z. B. eine DOI oder eine URN.
 * …**erschlossen** sein. Metadaten und eine Dokumentation der Daten erleichtern die Interpretation und Reproduzierbarkeit der Daten. Was wurde mit diesen Daten untersucht und als Ergebnis festgehalten? Was möchte ich untersuchen und wie unterscheidet sich das vom vorherigen Nutzen?
