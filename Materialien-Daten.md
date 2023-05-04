@@ -277,9 +277,9 @@ Auf diese Weise ist das Risiko des Datenverlustes bestmöglichst reduziert.
 
 * Alle fünf Jahre sollten die alten externen Speichermedien mit neueren ausgetauscht werden.
 
-* Eine regelmäßige Kontrolle der Dateien sollte durchgeführt werden (z. B. einmal jährlich, stichprobenartig).
+* Eine regelmäßige Kontrolle der Daten und Dateien sollte durchgeführt werden (z. B. einmal jährlich, stichprobenartig).
 
-* Es sollte ein geeigneter Ablageort für Dateien gewählt werden, der
+* Es sollte ein geeigneter Ablageort für Daten und Dateien gewählt werden, der
 
     * über ausreichend Speicherkapazität verfügt,
 
