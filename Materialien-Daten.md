@@ -135,7 +135,7 @@ oder
 
 # Daten dokumentieren, strukturieren, ordnen & speichern
 
-## Wieso überhaupt Daten dokumentieren, strukturieren, ordnen & speichern?
+**Wieso überhaupt Daten dokumentieren, strukturieren, ordnen & speichern?**
 
 * Die Nachnutzung der Daten und die Interpretierbarkeit der Daten wird vereinfacht und langfristig sichergestellt. Dies ist nicht nur für die eigene Nachnutzung der Daten von Vorteil, die Daten werden somit auch für Dritte nachvollziehbarer.
 
