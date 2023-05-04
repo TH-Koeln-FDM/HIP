@@ -1,5 +1,5 @@
-# HIP – Materialien zum Thema Daten
-**Blick auf unseren Planeten: Die Verwundbarkeit (und Zukunft) unserer Datenuniversen**
+# HIP – Materialien zum Thema ***Daten***
+**Im Universum der Daten: Verwundbarkeit und Zukunft datenbasierter Gesellschaften**
 
 Daten nehmen insbesondere mit zunehmender Digitalisierung immer mehr an Bedeutung zu. Sie umgeben uns und bestimmen unseren Alltag. Der richtige Umgang mit Daten ist daher von großer Wichtigkeit. Daher beschäftigen wir uns in der HIP (im SoSe23) näher mit dem Thema „Datenuniversen”.
 
@@ -21,7 +21,8 @@ Um zu veranschaulichen, wie für die HIP-Woche passende Datensätze gefunden wer
 
 ## Wo kann man Datensätze finden?
 
-### Metasuchmaschinen/Datenportale
+**Metasuchmaschinen/Datenportale**
+
 Eine Metasuchmaschine ist ein System, das Informationen von anderen Suchmaschinen nutzt, um eine vollständige und angemessene Antworten auf eine Frage zu geben. [Quelle](https://www.arimetrics.com/en/digital-glossary/metasearch-engine).
 
 
@@ -48,7 +49,8 @@ Beispiele für Metasuchmaschinen/Datenportale:
 * [European Union Open Data Portal](https://data.europa.eu/en) → macht offene Daten der EU zugänglich
 
 
-### Repositorien
+**Repositorien**
+
 „Digitale Forschungsdaten-Repositorien sind Informationsinfrastrukturen, die digitale Forschungsdaten möglichst dauerhaft – anhand der Anforderungen der jeweiligen Nutzergruppe – speichern und organisieren, um die Auffindbarkeit und Zugänglichkeit der Daten zu sichern.” [Quelle](http://www.forschungsdaten.org/index.php/Repositorium).
 
 Beispiele für Repositorien / Suche in Repositorien :
