@@ -266,7 +266,7 @@ Die Sicherung der Daten sollte…
 
 * strukturiert und einheitlich erfolgen.
 
-* Eine gute [Ordner- und Dateistruktur](https://liascript.github.io/course/?https://raw.githubusercontent.com/TH-Koeln-FDM/HIP/main/Materialien-Daten.md#12) und
+* Eine gute [Ordner- und Dateistruktur](https://liascript.github.io/course/?https://raw.githubusercontent.com/TH-Koeln-FDM/HIP/main/Materialien-Daten.md#11) und
 eine geeignete [Dateibenennung](https://liascript.github.io/course/?https://raw.githubusercontent.com/TH-Koeln-FDM/HIP/main/Materialien-Daten.md#13) beinhalten.
 
 * Die **3-2-1-Regel** beachten.
@@ -330,6 +330,36 @@ Daten sollten strukturiert und geordnet vorliegen, damit:
 
 * für Dritte nachvollziehbar
 
+### Datenformate
+
+Damit Daten langfristig nachnutzbar sind und einfacher geteilt werden können, sollte darauf geachtet werden, dass zum einen so wenig unterschiedliche Datenformate wie möglich verwendet werden, zum anderen die Daten in:
+
+* offenen,
+
+* standardisierten, 
+
+* langlebigen, 
+
+* nicht-proprietären, d. h. nicht herstellerspezifisch, 
+
+* weit verbreiteten 
+
+Formaten vorliegen und gespeichert werden. Dies erhöht die Wahrscheinlichkeit, dass es auch in einigen Jahren noch Software und Hardware gibt, die die Daten lesen können. Auch sollten die Formate möglichst verlustfrei konvertiert werden können.
+
+Unter den oben genannten Aspekten eignen sich folgende Formate:
+
+* **Text** → pdf/a, txt, xml
+
+* **Tabelle** → xml, csv (mit Einschränkungen)
+
+* **Foto** → tiff, tif, (jpg ist nicht empfohlen)
+
+* **Grafik** → png
+
+* **Audio** → wav, flac (mit Einschränkungen), (mp3 ist nicht empfohlen)
+
+Mehr zu geeigneten und ungeeigneten Datenformaten [hier](https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/formate-erhalten/).
+
 ### Dateien benennen
 
 Eine klare Benennung von Dateien ist wichtig für
@@ -382,33 +412,3 @@ Die Dateibenennungen sollten…
 >- Autor:in: Urheber:in des Dokuments
 >- Inhalt: Thema / Inhalt des Dokuments
 >- Version: Bei versionierten Dokumenten wird die Version >bei jeder Änderung hochgezählt z.B. _v01, v02, ...
-
-### Datenformate
-
-Damit Daten langfristig nachnutzbar sind und einfacher geteilt werden können, sollte darauf geachtet werden, dass zum einen so wenig unterschiedliche Datenformate wie möglich verwendet werden, zum anderen die Daten in:
-
-* offenen,
-
-* standardisierten, 
-
-* langlebigen, 
-
-* nicht-proprietären, d. h. nicht herstellerspezifisch, 
-
-* weit verbreiteten 
-
-Formaten vorliegen und gespeichert werden. Dies erhöht die Wahrscheinlichkeit, dass es auch in einigen Jahren noch Software und Hardware gibt, die die Daten lesen können. Auch sollten die Formate möglichst verlustfrei konvertiert werden können.
-
-Unter den oben genannten Aspekten eignen sich folgende Formate:
-
-* **Text** → pdf/a, txt, xml
-
-* **Tabelle** → xml, csv (mit Einschränkungen)
-
-* **Foto** → tiff, tif, (jpg ist nicht empfohlen)
-
-* **Grafik** → png
-
-* **Audio** → wav, flac (mit Einschränkungen), (mp3 ist nicht empfohlen)
-
-Mehr zu geeigneten und ungeeigneten Datenformaten [hier](https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/formate-erhalten/).
