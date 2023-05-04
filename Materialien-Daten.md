@@ -76,6 +76,10 @@ Siehe [dieses Video](https://www.youtube.com/watch?v=HMYpfwItUiY&list=PLID58IQe1
 
 * [Quelle](https://www.base-search.net/Search/Results?type=all&lookfor=fahrr%C3%A4der+k%C3%B6ln&ling=1&oaboost=1&name=&thes=&refid=dcresde&newsearch=1)
 
+>Erklärvideo, wie diese Daten gefunden werden können.
+<video width="320" height="240" controls>
+  <source src="Materialien/videos/daten_finden_bike-sharing_v2.mp4" type="video/mp4">
+</video>
 
 **Refill Stationen Coffee to-go in Bonn**
 
@@ -87,6 +91,10 @@ Siehe [dieses Video](https://www.youtube.com/watch?v=HMYpfwItUiY&list=PLID58IQe1
 
 * [Quelle](https://www.govdata.de/web/guest/suchen/-/details/refill-stationen-coffee-to-go)
 
+>Erklärvideo, wie diese Daten gefunden werden können.
+<video width="320" height="240" controls>
+  <source src="Materialien/videos/daten_finden_coffee-to-go.mp4" type="video/mp4">
+</video>
 
 **Indikator Klimasensitive Vogelarten**
 
@@ -95,6 +103,11 @@ Siehe [dieses Video](https://www.youtube.com/watch?v=HMYpfwItUiY&list=PLID58IQe1
 * Format: XLSX
 
 * [Quelle](https://data.europa.eu/data/datasets/16f7a7a8-fc81-411d-bb06-11fd33805971?locale=de)
+
+>Erklärvideo, wie diese Daten gefunden werden können.
+<video width="320" height="240" controls>
+  <source src="Materialien/videos/daten_finden_klima-vogel.mp4" type="video/mp4">
+</video>
 
 ## Wie nutzt man Daten nach? Was muss ich beachten?
 
