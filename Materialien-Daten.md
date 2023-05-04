@@ -161,9 +161,9 @@ oder
 
 [Quelle](https://forschungsdaten.info/themen/finden-und-nachnutzen/zitieren-von-daten/).
 
-# Daten dokumentieren, strukturieren, ordnen & speichern
+# Daten und Dateien dokumentieren, speichern, strukturieren & ordnen
 
-**Wieso überhaupt Daten dokumentieren, strukturieren, ordnen & speichern?**
+**Wieso überhaupt Daten und Dateien dokumentieren, speichern, strukturieren & ordnen?**
 
 * Die Nachnutzung der Daten und die Interpretierbarkeit der Daten wird vereinfacht und langfristig sichergestellt. Dies ist nicht nur für die eigene Nachnutzung der Daten von Vorteil, die Daten werden somit auch für Dritte nachvollziehbarer.
 
@@ -247,18 +247,18 @@ Damit Daten nicht Gefahr laufen, beschädigt zu werden, verloren zu gehen oder z
 
 **Worauf sollte ich achten?**
 
-Die Sicherung der Dateien sollte…
+Die Sicherung der Daten sollte…
 
 * regelmäßig,
 
 * in mehreren Kopien,
 
-* in weit verbreiteten Dateiformaten (verlinken),
+* in weit verbreiteten [Datenformaten](https://liascript.github.io/course/?https://raw.githubusercontent.com/TH-Koeln-FDM/HIP/main/Materialien-Daten.md#14),
 
 * strukturiert und einheitlich erfolgen.
 
-* Eine gute Ordner- und Dateistruktur (*verlinken*) und
-eine geeignete Dateibenennung (*verlinken*) beinhalten.
+* Eine gute [Ordner- und Dateistruktur](https://liascript.github.io/course/?https://raw.githubusercontent.com/TH-Koeln-FDM/HIP/main/Materialien-Daten.md#12) und
+eine geeignete [Dateibenennung](https://liascript.github.io/course/?https://raw.githubusercontent.com/TH-Koeln-FDM/HIP/main/Materialien-Daten.md#13) beinhalten.
 
 * Die **3-2-1-Regel** beachten.
 
