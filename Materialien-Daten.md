@@ -127,6 +127,8 @@ Die Daten müssen…
 * …[**zitierfähig** und **nachhaltig verfügbar**](https://liascript.github.io/course/?https://raw.githubusercontent.com/TH-Koeln-FDM/HIP/main/Materialien-Daten.md#6) sein. Das heißt, sie verfügen über alle notwendigen Informationen und über einen Persistent Identifier (PID), wie z. B. eine DOI oder eine URN.
 * …**erschlossen** sein. Metadaten und eine Dokumentation der Daten erleichtern die Interpretation und Reproduzierbarkeit der Daten. Was wurde mit diesen Daten untersucht und als Ergebnis festgehalten? Was möchte ich untersuchen und wie unterscheidet sich das vom vorherigen Nutzen?
 
+### Creative-Commons-Lizenzen 
+
 Mehr über die Creative-Commons-Lizenzen (Quelle: Jöran Muuß-Merholz, https://wb-web.de/material/medien/die-cc-lizenzen-im-uberblick-welche-lizenz-fur-welche-zwecke-1.html; https://creativecommons.org/licenses/?lang=de) :
 
 
