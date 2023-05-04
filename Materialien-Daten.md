@@ -148,10 +148,7 @@ oder
 (Quelle: Weiner, Barbara, Wünsche, Stephan, Kühne, Stefan, Voigt, Pia, Frericks, Sebastian, Hoffmann, Clemens, Elze, Romy, & Gey, Ronny. (2020, April 30). Crashkurs Forschungsdatenmanagement. Zenodo. https://doi.org/10.5281/zenodo.3778431)
 
 >Testen Sie in [diesem Quiz](https://app.Lumi.education/run/72k9s5) Ihr Wissen zum Thema „Daten Speichern”.
-
-ODER 
-
->Scannen Sie den QR-Code mit Ihrem Smartphone und testen Sie in diesem Quiz Ihr Wissen zum Thema „Daten Speichern”: <img src="Materialien/img/Speichern_Test1.png">
+>Oder scannen Sie den QR-Code mit Ihrem Smartphone und testen Sie in diesem Quiz Ihr Wissen zum Thema „Daten Speichern”: <img src="Materialien/img/Speichern_Test1.png">
 
 ## Daten dokumentieren
 Daten und Prozesse sollten während eines Projekts, wie die Projektarbeit in der HIP, von Anfang an dokumentiert werden. Die Dokumentation dient der Projektplanung und -durchführung, indem wichtige Fragen im Umgang mit Daten beantwortet werden. Die nachfolgenden Leitfragen können während der HIP helfen, einer ausführlichen Projektdokumentation nachzukommen.
@@ -215,6 +212,50 @@ Daten und Prozesse sollten während eines Projekts, wie die Projektarbeit in der
 * *Weitergabe:* Ist es geplant, die Daten nach der Aufgabe zu teilen? z. B. mit Dozenten / Studierenden? Sind bestimmte Software, Verfahren oder Technologien notwendig, um die Daten nachzunutzen? Wenn ja, welche?
 
 (Nach: Institut für Bibliotheks- und Informationswissenschaft, Humboldt-Universität zu Berlin, Datenmanagementplan (DMP) für die Abschlussarbeit, 8.12.21, unter: https://www.ibi.hu-berlin.de/de/studium/rundumdasstudium/fdm-fuer-studierende/dmp_template_finale_version_dez_21.pdf)
+
+## Daten speichern
+
+Damit Daten nicht Gefahr laufen, beschädigt zu werden, verloren zu gehen oder zu veralten, ist es sinnvoll, bei der Speicherung von Daten einige Aspekte zu beachten. So kann vorgebeugt werden, dass Daten bspw. aufgrund technischer Fehler nicht mehr lesbar sind, etwa durch einen Schaden an der Festplatte oder aufgrund veralteter Software, oder versehentlich gelöscht werden.
+
+**Worauf sollte ich achten?**
+
+Die Sicherung der Dateien sollte…
+
+* regelmäßig,
+
+* in mehreren Kopien,
+
+* in weit verbreiteten Dateiformaten (verlinken),
+
+* strukturiert und einheitlich erfolgen.
+
+* Eine gute Ordner- und Dateistruktur (*verlinken*) und
+eine geeignete Dateibenennung (*verlinken*) beinhalten.
+
+* Die **3-2-1-Regel** beachten.
+
+<img src="Materialien/img/3-2-1_Backupregel.PNG"  width="70%">
+
+Auf diese Weise ist das Risiko des Datenverlustes bestmöglichst reduziert.
+
+** Empfehlungen:**
+
+* Alle fünf Jahre sollten die alten externen Speichermedien mit neueren ausgetauscht werden.
+
+* Eine regelmäßige Kontrolle der Dateien sollte durchgeführt werden (z. B. einmal jährlich, stichprobenartig).
+
+* Es sollte ein geeigneter Ablageort für Dateien gewählt werden, der
+
+    * über ausreichend Speicherkapazität verfügt,
+
+    * allen beteiligten und berechtigten Personen Zugriff ermöglicht und
+
+    * Zugriff durch Unbefugte verhindert.
+
+* Clouddienste sollten zudem DSGVO-konform sein, wie etwa die Cloud-Speicherlösung sciebo, die von Hochschulangehörigen genutzt werden kann (https://hochschulcloud.nrw/).
+
+ [Quelle](https://www.forschungsdaten-bildung.de/dateien-benennen).
+
 
 ## Daten strukturieren & ordnen
 
@@ -304,7 +345,7 @@ Die Dateibenennungen sollten…
 >- Inhalt: Thema / Inhalt des Dokuments
 >- Version: Bei versionierten Dokumenten wird die Version >bei jeder Änderung hochgezählt z.B. _v01, v02, ...
 
-### Dateiformate
+### Datenformate
 
 Damit Daten langfristig nachnutzbar sind und einfacher geteilt werden können, sollte darauf geachtet werden, dass zum einen so wenig unterschiedliche Datenformate wie möglich verwendet werden, zum anderen die Daten in:
 
@@ -333,46 +374,3 @@ Unter den oben genannten Aspekten eignen sich folgende Formate:
 * **Audio** → wav, flac (mit Einschränkungen), (mp3 ist nicht empfohlen)
 
 Mehr zu geeigneten und ungeeigneten Dateiformaten [hier](https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/formate-erhalten/).
-
-## Daten speichern
-
-Damit Daten nicht Gefahr laufen, beschädigt zu werden, verloren zu gehen oder zu veralten, ist es sinnvoll, bei der Speicherung von Daten einige Aspekte zu beachten. So kann vorgebeugt werden, dass Daten bspw. aufgrund technischer Fehler nicht mehr lesbar sind, etwa durch einen Schaden an der Festplatte oder aufgrund veralteter Software, oder versehentlich gelöscht werden.
-
-**Worauf sollte ich achten?**
-
-Die Sicherung der Dateien sollte…
-
-* regelmäßig,
-
-* in mehreren Kopien,
-
-* in weit verbreiteten Dateiformaten (verlinken),
-
-* strukturiert und einheitlich erfolgen.
-
-* Eine gute Ordner- und Dateistruktur (*verlinken*) und
-eine geeignete Dateibenennung (*verlinken*) beinhalten.
-
-* Die **3-2-1-Regel** beachten.
-
->Abbildung: forschungsdaten.info
-
-Auf diese Weise ist das Risiko des Datenverlustes bestmöglichst reduziert.
-
-** Empfehlungen:**
-
-* Alle fünf Jahre sollten die alten externen Speichermedien mit neueren ausgetauscht werden.
-
-* Eine regelmäßige Kontrolle der Dateien sollte durchgeführt werden (z. B. einmal jährlich, stichprobenartig).
-
-* Es sollte ein geeigneter Ablageort für Dateien gewählt werden, der
-
-    * über ausreichend Speicherkapazität verfügt,
-
-    * allen beteiligten und berechtigten Personen Zugriff ermöglicht und
-
-    * Zugriff durch Unbefugte verhindert.
-
-* Clouddienste sollten zudem DSGVO-konform sein, wie etwa die Cloud-Speicherlösung sciebo, die von Hochschulangehörigen genutzt werden kann (https://hochschulcloud.nrw/).
-
- [Quelle](https://www.forschungsdaten-bildung.de/dateien-benennen).
