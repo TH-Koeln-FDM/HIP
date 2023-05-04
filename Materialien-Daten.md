@@ -3,11 +3,11 @@
 
 Daten nehmen insbesondere mit zunehmender Digitalisierung immer mehr an Bedeutung zu. Sie umgeben uns und bestimmen unseren Alltag. Der richtige Umgang mit Daten ist daher von großer Wichtigkeit. Daher beschäftigen wir uns in der HIP (im SoSe23) näher mit dem Thema „Datenuniversen”.
 
-[Erfahre mehr über Daten](https://datenverstehen.de/was-sind-eigentlich-die-daten/).
+[Erfahren Sie mehr über Daten](https://datenverstehen.de/was-sind-eigentlich-die-daten/).
 
 Um die Projektidee umzusetzen, ist es möglich, mit Datensätzen zu arbeiten. Aus diesem Grund werden Ihnen Hilfsmittel zur Verfügung gestellt. Neben Informationen zu den Themen „Daten finden und nachnutzen” und „Daten dokumentieren, strukturieren, ordnen & speichern” finden Sie zudem eine Checkliste, die Sie für die HIP-Woche (und darüber hinaus) verwenden können. Die Checkliste stellt sicher, dass Sie die wichtigsten Aspekte zu den Themen berücksichtigt haben.
 
-> [Hier](https://github.com/TH-Koeln-FDM/HIP/blob/main/20230502_Checkliste_Leitfragen_fuer_Studis_v4.docx) kann die Checkliste heruntergeladen werden.
+> [Hier kann die Checkliste heruntergeladen werden](https://github.com/TH-Koeln-FDM/HIP/blob/main/20230502_Checkliste_Leitfragen_fuer_Studis_v4.docx).
 
 Wir wünschen Ihnen viel Erfolg und eine gute Zusammenarbeit!
 
