@@ -234,7 +234,7 @@ eine geeignete Dateibenennung (*verlinken*) beinhalten.
 
 * Die **3-2-1-Regel** beachten.
 
-<img src="Materialien/img/3-2-1_Backupregel.PNG"  width="70%">
+<img src="Materialien/img/3-2-1_Backupregel.PNG"  width="50%">
 
 Auf diese Weise ist das Risiko des Datenverlustes bestmöglichst reduziert.
 
