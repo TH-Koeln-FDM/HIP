@@ -124,6 +124,16 @@ Die Daten müssen…
 * …**zitierfähig** und **nachhaltig verfügbar** sein. Das heißt, sie verfügen über alle notwendigen Informationen und über einen Persistent Identifier (PID), wie z. B. eine DOI oder eine URN.
 * …**erschlossen** sein. Metadaten und eine Dokumentation der Daten erleichtern die Interpretation und Reproduzierbarkeit der Daten. Was wurde mit diesen Daten untersucht und als Ergebnis festgehalten? Was möchte ich untersuchen und wie unterscheidet sich das vom vorherigen Nutzen?
 
+Mehr über die Creative-Commons-Lizenzen (Quelle: Jöran Muuß-Merholz, https://wb-web.de/material/medien/die-cc-lizenzen-im-uberblick-welche-lizenz-fur-welche-zwecke-1.html; https://creativecommons.org/licenses/?lang=de) :
+
+
+| Namensnennung CC BY  | Namensnennung: Weitergabe unter gleichen Bedingungen CC BY-SA  | Namensnennung-Keine Bearbeitung CC BY-ND  | Namensnennung-Nicht kommerziell
+CC BY-NC  | Namensnennung, Nicht-kommerziell:  Weitergabe unter gleichen Bedingungen CC BY-NC-SA   | Namensnennung, Nicht-kommerziell: Keine Bearbeitung CC BY-NC-ND  |
+|-|-|-|-|-|-|
+| Diese Lizenz erlaubt Dritten, ein Werk zu verbreiten, zu verändern, zu verbessern und darauf aufzubauen, auch kommerziell, solange der Urheber des Originals genannt wird. | Diese Lizenz erlaubt es Dritten, ein Werk zu verbreiten, zu verändern, zu verbessern und darauf aufzubauen, auch kommerziell, solange der Urheber des Originals genannt wird und die auf seinem Werk basierenden neuen Werke unter denselben Bedingungen veröffentlicht werden. | Diese Lizenz erlaubt Dritten die Weiterverbreitung des Werkes, kommerziell wie nicht-kommerziell, solange dies ohne Veränderungen und vollständig geschieht und der Urheber genannt wird. | wie CC BY – zusätzlich mit der Einschränkung „nur nicht kommerziell“ | wie CC BY SA – zusätzlich mit der Einschränkung „nur nicht kommerziell“ | wie CC BY ND – zusätzlich mit der Einschränkung „nur nicht kommerziell“ |
+
+
+
 ## Wie zitiere ich Datensätze?
 
 Nach wissenschaftlichen Standards auffindbare Datensätze verfügen i. d. R. über folgende Informationen:
