@@ -147,7 +147,7 @@ Nach wissenschaftlichen Standards auffindbare Datensätze verfügen i. d. R. üb
 
 [Quelle](https://forschungsdaten.info/themen/finden-und-nachnutzen/zitieren-von-daten/).
 
-Hier noch die Beispielquellen der Beispiele einfügen.
+
 
 ### Mögliche Zitation von Datensätzen
 Entweder
@@ -159,6 +159,14 @@ oder
 * Urheber (Veröffentlichungsdatum): Titel. Version. Publikationsagent. Genereller Ressourcentyp. Identifikator
 
 [Quelle](https://forschungsdaten.info/themen/finden-und-nachnutzen/zitieren-von-daten/).
+
+**Quellen der Beispieldatensätze:**
+
+* Eser, Alexander (2018): Interaktive Mobilitätsstudie - Bike Sharing Köln. Kaufberater.io. Stummfilm. https://doi.org/10.5446/35422
+
+* o.A. (2023, 02. Mai): Refill Stationen - Coffee to go. Open.NRW. Datensatz. Eingeschränkte Nutzung.
+
+* o.A. (2021, 06. Oktober): Indikator Klimasensitive Vogelarten. Geoportal. Datensatz. https://data.europa.eu/data/datasets/16f7a7a8-fc81-411d-bb06-11fd33805971?locale=de
 
 # Daten und Dateien dokumentieren, speichern, strukturieren & ordnen
 
