@@ -213,3 +213,164 @@ Daten und Prozesse sollten während eines Projekts, wie die Projektarbeit in der
 * *Weitergabe:* Ist es geplant, die Daten nach der Aufgabe zu teilen? z. B. mit Dozenten / Studierenden? Sind bestimmte Software, Verfahren oder Technologien notwendig, um die Daten nachzunutzen? Wenn ja, welche?
 
 (Nach: Institut für Bibliotheks- und Informationswissenschaft, Humboldt-Universität zu Berlin, Datenmanagementplan (DMP) für die Abschlussarbeit, 8.12.21, unter: https://www.ibi.hu-berlin.de/de/studium/rundumdasstudium/fdm-fuer-studierende/dmp_template_finale_version_dez_21.pdf)
+
+## Daten strukturieren & ordnen
+
+Daten sollten strukturiert und geordnet vorliegen, damit:
+
+* die Dateien jetzt und auch zukünftig für einen selbst und für Dritte leicht auffindbar und zugänglich sind,
+
+* längeres Suchen von Dateien oder das Vergleichen verschiedener Versionen von Dateien vermieden wird,
+
+* Änderungen nachvollziehbar sind und
+die Dateien nicht versehentlich gelöscht oder überschrieben werden.
+
+[Quelle](https://www.forschungsdaten-bildung.de/dateien-benennen)
+
+### Gute Ordnerstruktur
+
+**Worauf sollte ich für eine übersichtliche Ordnerstruktur achten?**
+
+* Ordnernamen sind nach Thema kategorisiert
+
+* Ordnernamen verweisen auf Ordnerinhalte
+
+* Rohdaten in einen separaten Ordner ablegen
+
+* laufende und abgeschlossene Arbeiten trennen
+
+* Ordnerstruktur ist hierarchisch gegliedert (→ beinhaltet übergeordnete (allgemeinere) und untergeordnete (konkretere) Elemente)
+
+* Ordnerstruktur ist auf lokalen und externen
+
+* Speichermedien identisch
+
+* konsequent bleiben
+
+* für Dritte nachvollziehbar
+
+### Dateien benennen
+
+Eine klare Benennung von Dateien ist wichtig für
+
+* eine strukturierte Speicherung
+
+* die Übersichtlichkeit, da eine klare Struktur und logische Sortierung vorliegt
+
+* die Nachvollziehbarkeit und Auffindbarkeit
+
+* die Unterscheidung einzelner Dateien
+
+**Worauf sollte ich achten?** 
+
+Die Dateibenennungen sollten…
+
+* aussagekräftig und eindeutig sein
+
+* möglichst stets nach dem gleichen Schema benannt sein
+
+* Rückschlüsse über deren Inhalt ermöglichen
+
+* so kurz wie möglich, so lang wie nötig sein
+
+* keine Leerzeichen, Umlaute und Sonderzeichen enthalten, außer Unterstrich und Bindestrich
+
+* Datumsangabe enthalten ( → Das Datum im Namen beschreibt das letzte Änderungsdatum einer Datei)
+
+    * Datumsformat: JJJJ-MM-TT oder JJ-MM-TT bzw. JJJMMTT oder JJMMTT
+
+* eine Versionierung beinhalten (v01 etc.), die nach jeder Dateiänderung aktualisiert wird*
+
+    * v01 statt "neu" oder v10 statt "final"
+
+     * Nummerierungen immer mit 0 statt 1 beginnen: v01 statt v1
+
+>Idee: 	Abkürzungen in einer Datei speichern und diese für das Benennen verwenden.
+>
+>Auch eine generelle Dokumentation der Dateibenennungen aufbewahren (zur Nachvollziehbarkeit zu einem späteren Zeitpunkt oder von anderen)
+
+
+*Empfehlung: Bei neuer Dateiversion oder Kopie einer bestehenden Datei wird im selben Schritt die vorherige Version in den Archivordner ("Archiv") im Hauptordner verschoben. Das vermeidet das Duplizieren und Splitten von Dateiversionen mit unterschiedlichen Bearbeitungsständen.
+
+
+>Datum_[Status]-Dokumententyp-[Autor:in]-Inhalt[_Version]
+>Felder
+>- Datum: JJJJ-MM-TT
+>- Status: z.B. ENTWURF
+>- Dokumententyp: z.B. Anschreiben, Interviewleitfaden, Konzept, Liste, ...
+>- Autor:in: Urheber:in des Dokuments
+>- Inhalt: Thema / Inhalt des Dokuments
+>- Version: Bei versionierten Dokumenten wird die Version >bei jeder Änderung hochgezählt z.B. _v01, v02, ...
+
+### Dateiformate
+
+Damit Daten langfristig nachnutzbar sind und einfacher geteilt werden können, sollte darauf geachtet werden, dass zum einen so wenig unterschiedliche Datenformate wie möglich verwendet werden, zum anderen die Daten in:
+
+* offenen,
+
+* standardisierten, 
+
+* langlebigen, 
+
+* nicht-proprietären, d. h. nicht herstellerspezifisch, 
+
+* weit verbreiteten 
+
+Formaten vorliegen und gespeichert werden. Dies erhöht die Wahrscheinlichkeit, dass es auch in einigen Jahren noch Software und Hardware gibt, die die Dateien lesen können. Auch sollten die Formate möglichst verlustfrei konvertiert werden können.
+
+Unter den oben genannten Aspekten eignen sich folgende Formate:
+
+* **Text** → pdf/a, txt, xml
+
+* **Tabelle** → xml, csv (mit Einschränkungen)
+
+* **Foto** → tiff, tif, (jpg ist nicht empfohlen)
+
+* **Grafik** → png
+
+* **Audio** → wav, flac (mit Einschränkungen), (mp3 ist nicht empfohlen)
+
+Mehr zu geeigneten und ungeeigneten Dateiformaten [hier](https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/formate-erhalten/).
+
+## Daten speichern
+
+Damit Daten nicht Gefahr laufen, beschädigt zu werden, verloren zu gehen oder zu veralten, ist es sinnvoll, bei der Speicherung von Daten einige Aspekte zu beachten. So kann vorgebeugt werden, dass Daten bspw. aufgrund technischer Fehler nicht mehr lesbar sind, etwa durch einen Schaden an der Festplatte oder aufgrund veralteter Software, oder versehentlich gelöscht werden.
+
+**Worauf sollte ich achten?**
+
+Die Sicherung der Dateien sollte…
+
+* regelmäßig,
+
+* in mehreren Kopien,
+
+* in weit verbreiteten Dateiformaten (verlinken),
+
+* strukturiert und einheitlich erfolgen.
+
+* Eine gute Ordner- und Dateistruktur (*verlinken*) und
+eine geeignete Dateibenennung (*verlinken*) beinhalten.
+
+* Die **3-2-1-Regel** beachten.
+
+>Abbildung: forschungsdaten.info
+
+Auf diese Weise ist das Risiko des Datenverlustes bestmöglichst reduziert.
+
+** Empfehlungen:**
+
+* Alle fünf Jahre sollten die alten externen Speichermedien mit neueren ausgetauscht werden.
+
+* Eine regelmäßige Kontrolle der Dateien sollte durchgeführt werden (z. B. einmal jährlich, stichprobenartig).
+
+* Es sollte ein geeigneter Ablageort für Dateien gewählt werden, der
+
+    * über ausreichend Speicherkapazität verfügt,
+
+    * allen beteiligten und berechtigten Personen Zugriff ermöglicht und
+
+    * Zugriff durch Unbefugte verhindert.
+
+* Clouddienste sollten zudem DSGVO-konform sein, wie etwa die Cloud-Speicherlösung sciebo, die von Hochschulangehörigen genutzt werden kann (https://hochschulcloud.nrw/).
+
+ [Quelle](https://www.forschungsdaten-bildung.de/dateien-benennen).
