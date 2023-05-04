@@ -395,7 +395,7 @@ Damit Daten langfristig nachnutzbar sind und einfacher geteilt werden können, s
 
 * weit verbreiteten 
 
-Formaten vorliegen und gespeichert werden. Dies erhöht die Wahrscheinlichkeit, dass es auch in einigen Jahren noch Software und Hardware gibt, die die Dateien lesen können. Auch sollten die Formate möglichst verlustfrei konvertiert werden können.
+Formaten vorliegen und gespeichert werden. Dies erhöht die Wahrscheinlichkeit, dass es auch in einigen Jahren noch Software und Hardware gibt, die die Daten lesen können. Auch sollten die Formate möglichst verlustfrei konvertiert werden können.
 
 Unter den oben genannten Aspekten eignen sich folgende Formate:
 
@@ -409,4 +409,4 @@ Unter den oben genannten Aspekten eignen sich folgende Formate:
 
 * **Audio** → wav, flac (mit Einschränkungen), (mp3 ist nicht empfohlen)
 
-Mehr zu geeigneten und ungeeigneten Dateiformaten [hier](https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/formate-erhalten/).
+Mehr zu geeigneten und ungeeigneten Datenformaten [hier](https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/formate-erhalten/).
