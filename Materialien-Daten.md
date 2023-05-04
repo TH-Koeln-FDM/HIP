@@ -296,12 +296,13 @@ Auf diese Weise ist das Risiko des Datenverlustes bestmöglichst reduziert.
 
 Daten sollten strukturiert und geordnet vorliegen, damit:
 
-* die Dateien jetzt und auch zukünftig für einen selbst und für Dritte leicht auffindbar und zugänglich sind,
+* die Daten jetzt und auch zukünftig für einen selbst und für Dritte leicht auffindbar und zugänglich sind,
 
-* längeres Suchen von Dateien oder das Vergleichen verschiedener Versionen von Dateien vermieden wird,
+* längeres Suchen von Daten bzw. Dateien oder das Vergleichen verschiedener Versionen von Dateien vermieden wird,
 
 * Änderungen nachvollziehbar sind und
-die Dateien nicht versehentlich gelöscht oder überschrieben werden.
+
+* die Daten und Dateien nicht versehentlich gelöscht oder überschrieben werden.
 
 [Quelle](https://www.forschungsdaten-bildung.de/dateien-benennen)
 
