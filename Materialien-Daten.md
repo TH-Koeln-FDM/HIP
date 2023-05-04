@@ -68,7 +68,7 @@ Zu „Finding your Own Data” bzw. wie komme ich zu interessanten Datensätzen 
 Siehe [dieses Video](https://www.youtube.com/watch?v=HMYpfwItUiY&list=PLID58IQe16nE-1980HOGDWsvf0skE2jvS&index=17), englisch (11:22 Min.).
 
 
-**Interaktive Mobilitätsstudie: Bike Sharing in Köln**
+>**Interaktive Mobilitätsstudie: Bike Sharing in Köln**
 
 * Gefunden über: BASE
 
@@ -76,12 +76,13 @@ Siehe [dieses Video](https://www.youtube.com/watch?v=HMYpfwItUiY&list=PLID58IQe1
 
 * [Quelle](https://www.base-search.net/Search/Results?type=all&lookfor=fahrr%C3%A4der+k%C3%B6ln&ling=1&oaboost=1&name=&thes=&refid=dcresde&newsearch=1)
 
->Erklärvideo, wie diese Daten gefunden werden können.
+**Erklärvideo, wie diese Daten gefunden werden können.**
 <video width="320" height="240" controls>
   <source src="Materialien/videos/daten_finden_bike-sharing_v2.mp4" type="video/mp4">
 </video>
 
-**Refill Stationen Coffee to-go in Bonn**
+
+>**Refill Stationen Coffee to-go in Bonn**
 
 * Gefunden über: GovData
 
@@ -91,12 +92,13 @@ Siehe [dieses Video](https://www.youtube.com/watch?v=HMYpfwItUiY&list=PLID58IQe1
 
 * [Quelle](https://www.govdata.de/web/guest/suchen/-/details/refill-stationen-coffee-to-go)
 
->Erklärvideo, wie diese Daten gefunden werden können.
+**Erklärvideo, wie diese Daten gefunden werden können.**
 <video width="320" height="240" controls>
   <source src="Materialien/videos/daten_finden_coffee-to-go.mp4" type="video/mp4">
 </video>
 
-**Indikator Klimasensitive Vogelarten**
+
+>**Indikator Klimasensitive Vogelarten**
 
 * Gefunden über: European Union Open Data Portal
 
@@ -104,7 +106,7 @@ Siehe [dieses Video](https://www.youtube.com/watch?v=HMYpfwItUiY&list=PLID58IQe1
 
 * [Quelle](https://data.europa.eu/data/datasets/16f7a7a8-fc81-411d-bb06-11fd33805971?locale=de)
 
->Erklärvideo, wie diese Daten gefunden werden können.
+**Erklärvideo, wie diese Daten gefunden werden können.**
 <video width="320" height="240" controls>
   <source src="Materialien/videos/daten_finden_klima-vogel.mp4" type="video/mp4">
 </video>
