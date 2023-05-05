@@ -428,6 +428,21 @@ Unter den oben genannten Aspekten eignen sich folgende Formate:
 
 Mehr zu geeigneten und ungeeigneten Datenformaten [hier](https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/formate-erhalten/).
 
+>Testen Sie in den folgenden Quizzen Ihr Wissen zum Thema „Datenformate”: [Quiz: Datenformate-Text](https://app.Lumi.education/run/IsaIgk), [Quiz: Datenformate-Tabelle](https://app.Lumi.education/run/scN52x), [Quiz: Datenformate-Bilder](https://app.Lumi.education/run/AG9dZp), [Quiz: Datenformate-Audio](https://app.Lumi.education/run/Q7zs7Z).
+>Alternativ können Sie die QR-Codes mit Ihrem Smartphone scannen, um zu den Quizzen zu gelangen: 
+
+
+|<img src="Materialien/img/Quiz-datenformate-text.png"> 
+|
+ <img src="Materialien/img/Quiz-datenformate-tabelle.png"> 
+|
+ <img src="Materialien/img/Quiz-datenformate-bilder.png"> 
+| 
+ <img src="Materialien/img/Quiz-datenformate-audio.png"> 
+|
+
+
+
 ### Dateien benennen
 
 Eine klare Benennung von Dateien ist wichtig für
