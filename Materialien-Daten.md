@@ -389,8 +389,7 @@ Daten sollten strukturiert und geordnet vorliegen, damit:
     <img src="Materialien/img/Database_DigitalBevaring.png"  width="25%"/>
 </p>
 
-Quelle: [ResearchDataRepositories DataBase DigitalPreservation von Jørgen Stamp (cc-by)
-](https://commons.wikimedia.org/wiki/File:Database_DigitalPreservation.png).
+Quelle: [ResearchDataRepositories DataBase DigitalPreservation von Jørgen Stamp (cc-by)](https://commons.wikimedia.org/wiki/File:Database_DigitalPreservation.png).
 
 ### Gute Ordnerstruktur
 
