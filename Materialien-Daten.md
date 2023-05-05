@@ -352,6 +352,7 @@ Auf diese Weise ist das Risiko des Datenverlustes bestmöglichst reduziert.
  [Quelle](https://www.forschungsdaten-bildung.de/dateien-benennen).
 
 >Testen Sie in [diesem Quiz](https://app.Lumi.education/run/72k9s5) Ihr Wissen zum Thema „Daten Speichern” und insbesondere der „Backup-Regel”.
+>
 >Alternativ können Sie den QR-Code mit Ihrem Smartphone scannen, um zu dem Quiz zu gelangen: 
 
 <p align="center">
@@ -399,6 +400,7 @@ Daten sollten strukturiert und geordnet vorliegen, damit:
 * für Dritte nachvollziehbar
 
 >Testen Sie in [diesem Quiz](https://app.Lumi.education/run/yxUjnd) Ihr Wissen zum Thema „Ordnerstruktur”.
+>
 >Alternativ können Sie den QR-Code mit Ihrem Smartphone scannen, um zu dem Quiz zu gelangen: 
 
 <p align="center">
@@ -436,6 +438,7 @@ Unter den oben genannten Aspekten eignen sich folgende Formate:
 Mehr zu geeigneten und ungeeigneten Datenformaten [hier](https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/formate-erhalten/).
 
 >Testen Sie in den folgenden Quizzen Ihr Wissen zum Thema „Datenformate”: [Quiz: Datenformate-Text](https://app.Lumi.education/run/IsaIgk), [Quiz: Datenformate-Tabelle](https://app.Lumi.education/run/scN52x), [Quiz: Datenformate-Bilder](https://app.Lumi.education/run/AG9dZp), [Quiz: Datenformate-Audio](https://app.Lumi.education/run/Q7zs7Z).
+>
 >Alternativ können Sie die QR-Codes mit Ihrem Smartphone scannen, um zu den Quizzen zu gelangen: 
 
 | Quiz: Datenformate-Text | Quiz: Datenformate-Tabelle | Quiz: Datenformate-Bilder | Quiz: Datenformate-Audio |
@@ -502,11 +505,9 @@ Die Dateibenennungen sollten…
 >
 > * Version: Bei versionierten Dokumenten wird die Version >bei jeder Änderung hochgezählt z.B. _v01, v02, ...
 
-> **Quizze**
-
-Testen Sie in diesen Quizzen Ihr Wissen zum Thema „Dateien benennen”: [Generelles Quiz zur Benennungskonvention](https://app.Lumi.education/run/CVERso), [Quiz zu Dateibenennungen](https://app.Lumi.education/run/GiSgT8).
-
-Alternativ können Sie die QR-Codes mit Ihrem Smartphone scannen, um zu den Quizzen zu gelangen: 
+>Testen Sie in diesen Quizzen Ihr Wissen zum Thema „Dateien benennen”: [Generelles Quiz zur Benennungskonvention](https://app.Lumi.education/run/CVERso), [Quiz zu Dateibenennungen](https://app.Lumi.education/run/GiSgT8).
+>
+>Alternativ können Sie die QR-Codes mit Ihrem Smartphone scannen, um zu den Quizzen zu gelangen: 
 
 | Quiz: Benennungskonvention | Quiz: Dateibenennungen |
 | - | - |
