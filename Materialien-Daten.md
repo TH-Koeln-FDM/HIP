@@ -29,7 +29,7 @@ Um zu veranschaulichen, wie für die HIP-Woche passende Datensätze gefunden wer
 
 ## Wo kann man Datensätze finden?
 
-**Metasuchmaschinen/Datenportale**
+>**Metasuchmaschinen/Datenportale**
 
 Eine Metasuchmaschine ist ein System, das Informationen von anderen Suchmaschinen nutzt, um eine vollständige und angemessene Antworten auf eine Frage zu geben. [Quelle](https://www.arimetrics.com/en/digital-glossary/metasearch-engine).
 
@@ -57,7 +57,7 @@ Beispiele für Metasuchmaschinen/Datenportale:
 * [European Union Open Data Portal](https://data.europa.eu/en) → macht offene Daten der EU zugänglich
 
 
-**Repositorien**
+>**Repositorien**
 
 „Digitale Forschungsdaten-Repositorien sind Informationsinfrastrukturen, die digitale Forschungsdaten möglichst dauerhaft – anhand der Anforderungen der jeweiligen Nutzergruppe – speichern und organisieren, um die Auffindbarkeit und Zugänglichkeit der Daten zu sichern.” [Quelle](http://www.forschungsdaten.org/index.php/Repositorium).
 
