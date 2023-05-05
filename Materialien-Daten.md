@@ -442,7 +442,7 @@ Eine klare Benennung von Dateien ist wichtig für
 
 **Worauf sollte ich achten?** 
 
->Testen Sie vorab in [diesem Quiz](https://app.Lumi.education/run/CVERso) Ihr Wissen zum Thema „Dateien Benennen”.
+>Testen Sie vorab in [diesem Quiz](https://app.Lumi.education/run/CVERso) Ihr Wissen zum Thema „Dateien benennen”.
 >Alternativ können Sie den QR-Code mit Ihrem Smartphone scannen, um zu dem Quiz zu gelangen: 
 
 <p align="center">
@@ -494,7 +494,7 @@ Die Dateibenennungen sollten…
 >
 > * Version: Bei versionierten Dokumenten wird die Version >bei jeder Änderung hochgezählt z.B. _v01, v02, ...
 
->Testen Sie in [diesem zweiten Quiz](https://app.Lumi.education/run/GiSgT8) Ihr Wissen zum Thema „Dateien Benennen”.
+>Testen Sie in [diesem zweiten Quiz](https://app.Lumi.education/run/GiSgT8) Ihr Wissen zum Thema „Dateien benennen”.
 >Alternativ können Sie den QR-Code mit Ihrem Smartphone scannen, um zu dem Quiz zu gelangen: 
 
 <p align="center">
