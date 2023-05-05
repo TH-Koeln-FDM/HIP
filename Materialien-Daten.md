@@ -205,7 +205,7 @@ oder
 
 [Quelle](https://forschungsdaten.info/themen/finden-und-nachnutzen/zitieren-von-daten/).
 
-**Quellen der Beispieldatensätze:**
+>**Quellen der Beispieldatensätze:**
 
 * Eser, Alexander (2018): Interaktive Mobilitätsstudie - Bike Sharing Köln. Kaufberater.io. Stummfilm. https://doi.org/10.5446/35422
 
