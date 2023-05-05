@@ -442,6 +442,13 @@ Eine klare Benennung von Dateien ist wichtig für
 
 **Worauf sollte ich achten?** 
 
+>Testen Sie vorab in [diesem Quiz](https://app.Lumi.education/run/CVERso) Ihr Wissen zum Thema „Dateien Benennen”.
+>Alternativ können Sie den QR-Code mit Ihrem Smartphone scannen, um zu dem Quiz zu gelangen: 
+
+<p align="center">
+    <img src="Materialien/img/Quiz-Benennungskonvention.png">
+</p>
+
 Die Dateibenennungen sollten…
 
 * aussagekräftig und eindeutig sein
@@ -471,12 +478,6 @@ Die Dateibenennungen sollten…
 
 *Empfehlung: Bei neuer Dateiversion oder Kopie einer bestehenden Datei wird im selben Schritt die vorherige Version in den Archivordner ("Archiv") im Hauptordner verschoben. Das vermeidet das Duplizieren und Splitten von Dateiversionen mit unterschiedlichen Bearbeitungsständen.
 
->Testen Sie in [diesem Quiz](https://app.Lumi.education/run/CVERso) Ihr Wissen zum Thema „Dateien Benennen”.
->Alternativ können Sie den QR-Code mit Ihrem Smartphone scannen, um zu dem Quiz zu gelangen: 
-
-<p align="center">
-    <img src="Materialien/img/Quiz-Benennungskonvention.png">
-</p>
 
 >Datum_[Status]-Dokumententyp-[Autor:in]-Inhalt[_Version]
 >Felder
