@@ -84,7 +84,7 @@ Siehe [dieses Video](https://www.youtube.com/watch?v=HMYpfwItUiY&list=PLID58IQe1
 
 * [Quelle](https://www.base-search.net/Search/Results?type=all&lookfor=fahrr%C3%A4der+k%C3%B6ln&ling=1&oaboost=1&name=&thes=&refid=dcresde&newsearch=1)
 
-**Erklärvideo, wie diese Daten gefunden werden können.**
+**Erklärvideo, wie diese Daten gefunden werden können:**
 
 <p align="center">
     <video width="320" height="240" controls>
@@ -103,7 +103,7 @@ Siehe [dieses Video](https://www.youtube.com/watch?v=HMYpfwItUiY&list=PLID58IQe1
 
 * [Quelle](https://www.govdata.de/web/guest/suchen/-/details/refill-stationen-coffee-to-go)
 
-**Erklärvideo, wie diese Daten gefunden werden können.**
+**Erklärvideo, wie diese Daten gefunden werden können:**
 
 <p align="center">
     <video width="320" height="240" controls>
@@ -119,7 +119,7 @@ Siehe [dieses Video](https://www.youtube.com/watch?v=HMYpfwItUiY&list=PLID58IQe1
 
 * [Quelle](https://data.europa.eu/data/datasets/16f7a7a8-fc81-411d-bb06-11fd33805971?locale=de)
 
-**Erklärvideo, wie diese Daten gefunden werden können.**
+**Erklärvideo, wie diese Daten gefunden werden können:**
 
 <p align="center">
     <video width="320" height="240" controls>
