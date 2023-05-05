@@ -455,7 +455,7 @@ Die Dateibenennungen sollten…
 
      * Nummerierungen immer mit 0 statt 1 beginnen: v01 statt v1
 
->Idee: 	Abkürzungen in einer Datei speichern und diese für das Benennen verwenden.
+>**Idee:** 	Abkürzungen in einer Datei speichern und diese für das Benennen verwenden.
 >
 >Auch eine generelle Dokumentation der Dateibenennungen aufbewahren (zur Nachvollziehbarkeit zu einem späteren Zeitpunkt oder von anderen)
 
@@ -465,9 +465,15 @@ Die Dateibenennungen sollten…
 
 >Datum_[Status]-Dokumententyp-[Autor:in]-Inhalt[_Version]
 >Felder
->- Datum: JJJJ-MM-TT
->- Status: z.B. ENTWURF
->- Dokumententyp: z.B. Anschreiben, Interviewleitfaden, Konzept, Liste, ...
->- Autor:in: Urheber:in des Dokuments
->- Inhalt: Thema / Inhalt des Dokuments
->- Version: Bei versionierten Dokumenten wird die Version >bei jeder Änderung hochgezählt z.B. _v01, v02, ...
+>
+> * Datum: JJJJ-MM-TT
+>
+> * Status: z.B. ENTWURF
+>
+> * Dokumententyp: z.B. Anschreiben, Interviewleitfaden, Konzept, Liste, ...
+>
+> * Autor:in: Urheber:in des Dokuments
+>
+> * Inhalt: Thema / Inhalt des Dokuments
+>
+> * Version: Bei versionierten Dokumenten wird die Version >bei jeder Änderung hochgezählt z.B. _v01, v02, ...
