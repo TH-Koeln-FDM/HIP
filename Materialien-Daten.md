@@ -431,16 +431,9 @@ Mehr zu geeigneten und ungeeigneten Datenformaten [hier](https://forschungsdaten
 >Testen Sie in den folgenden Quizzen Ihr Wissen zum Thema „Datenformate”: [Quiz: Datenformate-Text](https://app.Lumi.education/run/IsaIgk), [Quiz: Datenformate-Tabelle](https://app.Lumi.education/run/scN52x), [Quiz: Datenformate-Bilder](https://app.Lumi.education/run/AG9dZp), [Quiz: Datenformate-Audio](https://app.Lumi.education/run/Q7zs7Z).
 >Alternativ können Sie die QR-Codes mit Ihrem Smartphone scannen, um zu den Quizzen zu gelangen: 
 
-
-|<img src="Materialien/img/Quiz-datenformate-text.png"> 
-|
- <img src="Materialien/img/Quiz-datenformate-tabelle.png"> 
-|
- <img src="Materialien/img/Quiz-datenformate-bilder.png"> 
-| 
- <img src="Materialien/img/Quiz-datenformate-audio.png"> 
-|
-
+| Quiz: Datenformate-Text | Quiz: Datenformate-Tabelle | Quiz: Datenformate-Bilder | Quiz: Datenformate-Audio |
+| - | - | - | - |
+|<img src="Materialien/img/Quiz-datenformate-text.png">|<img src="Materialien/img/Quiz-datenformate-tabelle.png">|<img src="Materialien/img/Quiz-datenformate-bilder.png">| <img src="Materialien/img/Quiz-datenformate-audio.png">|
 
 
 ### Dateien benennen
@@ -456,13 +449,6 @@ Eine klare Benennung von Dateien ist wichtig für
 * die Unterscheidung einzelner Dateien
 
 **Worauf sollte ich achten?** 
-
->Testen Sie vorab in [diesem Quiz](https://app.Lumi.education/run/CVERso) Ihr Wissen zum Thema „Dateien benennen”.
->Alternativ können Sie den QR-Code mit Ihrem Smartphone scannen, um zu dem Quiz zu gelangen: 
-
-<p align="center">
-    <img src="Materialien/img/Quiz-Benennungskonvention.png">
-</p>
 
 Die Dateibenennungen sollten…
 
@@ -509,9 +495,9 @@ Die Dateibenennungen sollten…
 >
 > * Version: Bei versionierten Dokumenten wird die Version >bei jeder Änderung hochgezählt z.B. _v01, v02, ...
 
->Testen Sie in [diesem zweiten Quiz](https://app.Lumi.education/run/GiSgT8) Ihr Wissen zum Thema „Dateien benennen”.
->Alternativ können Sie den QR-Code mit Ihrem Smartphone scannen, um zu dem Quiz zu gelangen: 
+>Testen Sie in diesen Quizzen Ihr Wissen zum Thema „Dateien benennen”: [Generelles Quiz zur Benennungskonvention](https://app.Lumi.education/run/CVERso), [Quiz zu Dateibenennungen](https://app.Lumi.education/run/GiSgT8).
+>Alternativ können Sie die QR-Codes mit Ihrem Smartphone scannen, um zu den Quizzen zu gelangen: 
 
-<p align="center">
-    <img src="Materialien/img/Quiz-Benennungen.png">
-</p>
+| Quiz: Benennungskonvention | Quiz: Dateibenennungen |
+| - | - | - | - |
+|<img src="Materialien/img/Quiz-Benennungskonvention.png">|<img src="Materialien/img/Quiz-Benennungen.png">|
