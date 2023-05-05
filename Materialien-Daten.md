@@ -2,7 +2,7 @@
 **Im Universum der Daten: Verwundbarkeit und Zukunft datenbasierter Gesellschaften**
 
 <p align="center">
-    <img src="Materialien/img/Historie_Digitalisering.png"  width="70%"/>
+    <img src="Materialien/img/Historie_Digitalisering.png"  width="50%"/>
 </p>
 
 Daten nehmen insbesondere mit zunehmender Digitalisierung immer mehr an Bedeutung zu. Sie umgeben uns und bestimmen unseren Alltag. Der richtige Umgang mit Daten ist daher von großer Wichtigkeit. Daher beschäftigen wir uns in der HIP (im SoSe23) näher mit dem Thema „Datenuniversen”.
