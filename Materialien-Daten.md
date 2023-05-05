@@ -86,9 +86,11 @@ Siehe [dieses Video](https://www.youtube.com/watch?v=HMYpfwItUiY&list=PLID58IQe1
 
 **Erklärvideo, wie diese Daten gefunden werden können.**
 
-<video width="320" height="240" controls>
-  <source src="Materialien/videos/daten_finden_bike-sharing_v2.mp4" type="video/mp4">
-</video>
+<p align="center">
+    <video width="320" height="240" controls>
+        <source src="Materialien/videos/daten_finden_bike-sharing_v2.mp4" type="video/mp4">
+    </video>
+</p>
 
 
 >**Refill Stationen Coffee to-go in Bonn**
@@ -103,10 +105,11 @@ Siehe [dieses Video](https://www.youtube.com/watch?v=HMYpfwItUiY&list=PLID58IQe1
 
 **Erklärvideo, wie diese Daten gefunden werden können.**
 
-<video width="320" height="240" controls>
-  <source src="Materialien/videos/daten_finden_coffee-to-go.mp4" type="video/mp4">
-</video>
-
+<p align="center">
+    <video width="320" height="240" controls>
+    <source src="Materialien/videos/daten_finden_coffee-to-go.mp4" type="video/mp4">
+    </video>
+</p>
 
 >**Indikator Klimasensitive Vogelarten**
 
@@ -118,9 +121,11 @@ Siehe [dieses Video](https://www.youtube.com/watch?v=HMYpfwItUiY&list=PLID58IQe1
 
 **Erklärvideo, wie diese Daten gefunden werden können.**
 
-<video width="320" height="240" controls>
-  <source src="Materialien/videos/daten_finden_klima-vogel.mp4" type="video/mp4">
-</video>
+<p align="center">
+    <video width="320" height="240" controls>
+    <source src="Materialien/videos/daten_finden_klima-vogel.mp4" type="video/mp4">
+    </video>
+</p>
 
 ## Wie nutzt man Daten nach? Was muss ich beachten?
 
@@ -295,7 +300,9 @@ eine geeignete [Dateibenennung](https://liascript.github.io/course/?https://raw.
 
 * Die **3-2-1-Regel** beachten.
 
-<img src="Materialien/img/3-2-1_Backupregel.PNG"  width="50%">
+<p align="center">
+    <img src="Materialien/img/3-2-1_Backupregel.PNG"  width="50%"/>
+</p>
 
 Auf diese Weise ist das Risiko des Datenverlustes bestmöglichst reduziert.
 
