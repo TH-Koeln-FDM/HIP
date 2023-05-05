@@ -157,14 +157,13 @@ Mehr über die Creative-Commons-Lizenzen (Quelle: Jöran Muuß-Merholz, https://
     <img src="Materialien/img/PID_Citation.png"  width="30%"/>
 </p>
 
-Nach wissenschaftlichen Standards auffindbare Datensätze verfügen i. d. R. über folgende Informationen:
+Nach wissenschaftlichen Standards auffindbare Datensätze verfügen i. d. R. über folgende Informationen [Quelle](https://forschungsdaten.info/themen/finden-und-nachnutzen/zitieren-von-daten/):
 
 
 | Urheber  | Veröffentlichungsdatum | Titel  | Version | Publikationsagent  | Genereller Ressourcentyp | Identifikator |
 |-|-|-|-|-|-|-|
 |Ab fünf Namen sollte mit „et al.” oder Ähnlichem abgekürzt werden|Jahr der Veröffentlichung des Datensatzes|Titel und eventuell weitere Titel der Studie/des Datensatzes| Versionsnummer der Ressource| Name des Datenzentrums/der Institution, das/die Ressource veröffentlicht hat.|Datensatz, Text oder andere Ressourcentypen| Hier erscheint ein Persistent Identifier. Um direkt auf die Quelle des Objektes verweisen zu können, sollte der DOI-Name entweder mit der URL des Resolvers abgedruckt (http://doi.org/doi:10.4232/1.10770) oder – platzsparender – mit einem Hyperlink (doi:10.4232/1.10770) unterlegt werden.|
 
-[Quelle](https://forschungsdaten.info/themen/finden-und-nachnutzen/zitieren-von-daten/).
 
 >**Beispielszenarien**
 
