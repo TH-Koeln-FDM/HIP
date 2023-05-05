@@ -398,6 +398,13 @@ Daten sollten strukturiert und geordnet vorliegen, damit:
 
 * für Dritte nachvollziehbar
 
+>Testen Sie in [diesem Quiz](https://app.Lumi.education/run/yxUjnd) Ihr Wissen zum Thema „Ordnerstruktur”.
+>Alternativ können Sie den QR-Code mit Ihrem Smartphone scannen, um zu dem Quiz zu gelangen: 
+
+<p align="center">
+    <img src="Materialien/img/Quiz-Ordnerstrukturen.png">
+</p>
+
 ### Datenformate
 
 Damit Daten langfristig nachnutzbar sind und einfacher geteilt werden können, sollte darauf geachtet werden, dass zum einen so wenig unterschiedliche Datenformate wie möglich verwendet werden, zum anderen die Daten in:
@@ -495,9 +502,12 @@ Die Dateibenennungen sollten…
 >
 > * Version: Bei versionierten Dokumenten wird die Version >bei jeder Änderung hochgezählt z.B. _v01, v02, ...
 
->Testen Sie in diesen Quizzen Ihr Wissen zum Thema „Dateien benennen”: [Generelles Quiz zur Benennungskonvention](https://app.Lumi.education/run/CVERso), [Quiz zu Dateibenennungen](https://app.Lumi.education/run/GiSgT8).
->Alternativ können Sie die QR-Codes mit Ihrem Smartphone scannen, um zu den Quizzen zu gelangen: 
+> **Quizze**
+
+Testen Sie in diesen Quizzen Ihr Wissen zum Thema „Dateien benennen”: [Generelles Quiz zur Benennungskonvention](https://app.Lumi.education/run/CVERso), [Quiz zu Dateibenennungen](https://app.Lumi.education/run/GiSgT8).
+
+Alternativ können Sie die QR-Codes mit Ihrem Smartphone scannen, um zu den Quizzen zu gelangen: 
 
 | Quiz: Benennungskonvention | Quiz: Dateibenennungen |
-| - | - | - | - |
+| - | - |
 |<img src="Materialien/img/Quiz-Benennungskonvention.png">|<img src="Materialien/img/Quiz-Benennungen.png">|
