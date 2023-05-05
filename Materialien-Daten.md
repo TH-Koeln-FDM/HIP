@@ -157,7 +157,7 @@ Mehr über die Creative-Commons-Lizenzen (Quelle: Jöran Muuß-Merholz, https://
     <img src="Materialien/img/PID_Citation.png"  width="30%"/>
 </p>
 
-Nach wissenschaftlichen Standards auffindbare Datensätze verfügen i. d. R. über folgende Informationen [Quelle](https://forschungsdaten.info/themen/finden-und-nachnutzen/zitieren-von-daten/):
+Nach wissenschaftlichen Standards auffindbare Datensätze verfügen i. d. R. über folgende Informationen ([Quelle](https://forschungsdaten.info/themen/finden-und-nachnutzen/zitieren-von-daten/)):
 
 
 | Urheber  | Veröffentlichungsdatum | Titel  | Version | Publikationsagent  | Genereller Ressourcentyp | Identifikator |
