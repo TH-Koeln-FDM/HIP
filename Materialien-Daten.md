@@ -2,7 +2,7 @@
 **Im Universum der Daten: Verwundbarkeit und Zukunft datenbasierter Gesellschaften**
 
 <p align="center">
-    <img src="Materialien/img/Historie_Digitalisering.png"  width="50%"/>
+    <img src="Materialien/img/Historie_Digitalisering.png"  width="30%"/>
 </p>
 
 Daten nehmen insbesondere mit zunehmender Digitalisierung immer mehr an Bedeutung zu. Sie umgeben uns und bestimmen unseren Alltag. Der richtige Umgang mit Daten ist daher von großer Wichtigkeit. Daher beschäftigen wir uns in der HIP (im SoSe23) näher mit dem Thema „Datenuniversen”.
@@ -20,7 +20,7 @@ Wir wünschen Ihnen viel Erfolg und eine gute Zusammenarbeit!
 Haben Sie sich auf eine Projektidee bzw. ein Thema geeinigt, können Sie u. a. mit Hilfe von Metasuchmaschinen, Datenportalen und Repositorien passende Datensätze finden.
 
 <p align="center">
-    <img src="Materialien/img/Hjemmesider_DigitalBevaring.png"  width="40%"/>
+    <img src="Materialien/img/Hjemmesider_DigitalBevaring.png"  width="30%"/>
 </p>
 
 Dafür haben wir Ihnen kostenlose Webseiten für die jeweiligen Möglichkeiten aufgelistet. Neben den Links zu den Webseiten und einer kurzen Vorstellung sind teilweise auch Tutorials angeführt, die das Finden von Datensätzen auf den jeweiligen Webseiten erklären.
@@ -154,7 +154,7 @@ Mehr über die Creative-Commons-Lizenzen (Quelle: Jöran Muuß-Merholz, https://
 ## Wie zitiere ich Datensätze?
 
 <p align="center">
-    <img src="Materialien/img/PID_Citation.png"  width="60%"/>
+    <img src="Materialien/img/PID_Citation.png"  width="30%"/>
 </p>
 
 Nach wissenschaftlichen Standards auffindbare Datensätze verfügen i. d. R. über folgende Informationen:
@@ -192,7 +192,7 @@ oder
 **Wieso überhaupt Daten und Dateien dokumentieren, speichern, strukturieren & ordnen?**
 
 <p align="center">
-    <img src="Materialien/img/HvadErDigitalBevaring_DigitalBevaring.png"  width="60%"/>
+    <img src="Materialien/img/HvadErDigitalBevaring_DigitalBevaring.png"  width="30%"/>
 </p>
 
 * Die Nachnutzung der Daten und die Interpretierbarkeit der Daten wird vereinfacht und langfristig sichergestellt. Dies ist nicht nur für die eigene Nachnutzung der Daten von Vorteil, die Daten werden somit auch für Dritte nachvollziehbarer.
@@ -206,13 +206,17 @@ oder
 (Quelle: Weiner, Barbara, Wünsche, Stephan, Kühne, Stefan, Voigt, Pia, Frericks, Sebastian, Hoffmann, Clemens, Elze, Romy, & Gey, Ronny. (2020, April 30). Crashkurs Forschungsdatenmanagement. Zenodo. https://doi.org/10.5281/zenodo.3778431)
 
 >Testen Sie in [diesem Quiz](https://app.Lumi.education/run/72k9s5) Ihr Wissen zum Thema „Daten Speichern”.
->Oder scannen Sie den QR-Code mit Ihrem Smartphone und testen Sie in diesem Quiz Ihr Wissen zum Thema „Daten Speichern”: <img src="Materialien/img/Speichern_Test1.png">
+>Oder scannen Sie den QR-Code mit Ihrem Smartphone und testen Sie in diesem Quiz Ihr Wissen zum Thema „Daten Speichern”: 
+
+<p align="center">
+    <img src="Materialien/img/Speichern_Test1.png">
+</p>
 
 ## Daten dokumentieren
 Daten und Prozesse sollten während eines Projekts, wie die Projektarbeit in der HIP, von Anfang an dokumentiert werden. Die Dokumentation dient der Projektplanung und -durchführung, indem wichtige Fragen im Umgang mit Daten beantwortet werden. Die nachfolgenden Leitfragen können während der HIP helfen, einer ausführlichen Projektdokumentation nachzukommen.
 
 <p align="center">
-    <img src="Materialien/img/Bevaringsplan_DigitalBevaring.png"  width="40%"/>
+    <img src="Materialien/img/Bevaringsplan_DigitalBevaring.png"  width="30%"/>
 </p>
 
 **Allgemein**
@@ -282,7 +286,7 @@ Damit Daten nicht Gefahr laufen, beschädigt zu werden, verloren zu gehen oder z
 **Worauf sollte ich achten?**
 
 <p align="center">
-    <img src="Materialien/img/Lagringsmedier_DigitalBevaring.png"  width="40%"/>
+    <img src="Materialien/img/Lagringsmedier_DigitalBevaring.png"  width="30%"/>
 </p>
 
 Die Sicherung der Daten sollte…
@@ -340,7 +344,7 @@ Daten sollten strukturiert und geordnet vorliegen, damit:
 [Quelle](https://www.forschungsdaten-bildung.de/dateien-benennen)
 
 <p align="center">
-    <img src="Materialien/img/Database_DigitalBevaring.png"  width="40%"/>
+    <img src="Materialien/img/Database_DigitalBevaring.png"  width="30%"/>
 </p>
 
 ### Gute Ordnerstruktur
