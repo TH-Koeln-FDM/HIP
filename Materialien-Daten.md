@@ -5,6 +5,8 @@
     <img src="Materialien/img/Historie_Digitalisering.png"  width="50%"/>
 </p>
 
+Quelle: [ResearchDataRepositories History Digitization von Jørgen Stamp (cc-by)](https://commons.wikimedia.org/wiki/File:History_Digitization.png).
+
 Daten nehmen insbesondere mit zunehmender Digitalisierung immer mehr an Bedeutung zu. Sie umgeben uns und bestimmen unseren Alltag. Der richtige Umgang mit Daten ist daher von großer Wichtigkeit. Daher beschäftigen wir uns in der HIP (im SoSe23) näher mit dem Thema „Datenuniversen”.
 
 [Erfahren Sie mehr über Daten](https://datenverstehen.de/was-sind-eigentlich-die-daten/).
@@ -22,6 +24,8 @@ Haben Sie sich auf eine Projektidee bzw. ein Thema geeinigt, können Sie u. a. m
 <p align="center">
     <img src="Materialien/img/Hjemmesider_DigitalBevaring.png"  width="30%"/>
 </p>
+
+Quelle: [ResearchDataRepositories Websites DigitalPreservation von Jørgen Stamp (cc-by)](https://commons.wikimedia.org/wiki/File:Websites_DigitalPreservation.png).
 
 Dafür haben wir Ihnen kostenlose Webseiten für die jeweiligen Möglichkeiten aufgelistet. Neben den Links zu den Webseiten und einer kurzen Vorstellung sind teilweise auch Tutorials angeführt, die das Finden von Datensätzen auf den jeweiligen Webseiten erklären.
 
@@ -157,6 +161,8 @@ Mehr über die Creative-Commons-Lizenzen (Quelle: Jöran Muuß-Merholz, https://
     <img src="Materialien/img/PID_Citation.png"  width="30%"/>
 </p>
 
+Quelle: [ResearchDataRepositories PID Citation von Jørgen Stamp (cc-by)](https://commons.wikimedia.org/wiki/File:PID_Citation.png).
+
 Nach wissenschaftlichen Standards auffindbare Datensätze verfügen i. d. R. über folgende Informationen ([Quelle](https://forschungsdaten.info/themen/finden-und-nachnutzen/zitieren-von-daten/)):
 
 
@@ -224,6 +230,8 @@ oder
     <img src="Materialien/img/HvadErDigitalBevaring_DigitalBevaring.png"  width="40%"/>
 </p>
 
+Quelle: [ResearchDataRepositories WhatIsDP DigitalPreservation von Jørgen Stamp (cc-by)](https://commons.wikimedia.org/wiki/File:WhatIsDP_DigitalPreservation.png).
+
 * Die Nachnutzung der Daten und die Interpretierbarkeit der Daten wird vereinfacht und langfristig sichergestellt. Dies ist nicht nur für die eigene Nachnutzung der Daten von Vorteil, die Daten werden somit auch für Dritte nachvollziehbarer.
 
 * Die Forschungsergebnisse sind reproduzierbar.
@@ -241,6 +249,8 @@ Daten und Prozesse sollten während eines Projekts, wie die Projektarbeit in der
 <p align="center">
     <img src="Materialien/img/Bevaringsplan_DigitalBevaring.png"  width="25%"/>
 </p>
+
+Quelle: [ResearchDataRepositories PreservationPlan DigitalPreservation von Jørgen Stamp (cc-by)](https://commons.wikimedia.org/wiki/File:PreservationPlan_DigitalPreservation.png).
 
 **Allgemein**
 
@@ -312,6 +322,8 @@ Damit Daten nicht Gefahr laufen, beschädigt zu werden, verloren zu gehen oder z
     <img src="Materialien/img/Lagringsmedier_DigitalBevaring.png"  width="25%"/>
 </p>
 
+Quelle: [ResearchDataRepositories StorageMedia DigitalPreservation von Jørgen Stamp (cc-by)](https://commons.wikimedia.org/wiki/File:StorageMedia_DigitalPreservation.png).
+
 Die Sicherung der Daten sollte…
 
 * regelmäßig,
@@ -376,6 +388,9 @@ Daten sollten strukturiert und geordnet vorliegen, damit:
 <p align="center">
     <img src="Materialien/img/Database_DigitalBevaring.png"  width="25%"/>
 </p>
+
+Quelle: [ResearchDataRepositories DataBase DigitalPreservation von Jørgen Stamp (cc-by)
+](https://commons.wikimedia.org/wiki/File:Database_DigitalPreservation.png).
 
 ### Gute Ordnerstruktur
 
