@@ -2,7 +2,7 @@
 **Im Universum der Daten: Verwundbarkeit und Zukunft datenbasierter Gesellschaften**
 
 <p align="center">
-    <img src="Materialien/img/Historie_Digitalisering.png"  width="30%"/>
+    <img src="Materialien/img/Historie_Digitalisering.png"  width="50%"/>
 </p>
 
 Daten nehmen insbesondere mit zunehmender Digitalisierung immer mehr an Bedeutung zu. Sie umgeben uns und bestimmen unseren Alltag. Der richtige Umgang mit Daten ist daher von großer Wichtigkeit. Daher beschäftigen wir uns in der HIP (im SoSe23) näher mit dem Thema „Datenuniversen”.
@@ -192,7 +192,7 @@ oder
 **Wieso überhaupt Daten und Dateien dokumentieren, speichern, strukturieren & ordnen?**
 
 <p align="center">
-    <img src="Materialien/img/HvadErDigitalBevaring_DigitalBevaring.png"  width="30%"/>
+    <img src="Materialien/img/HvadErDigitalBevaring_DigitalBevaring.png"  width="40%"/>
 </p>
 
 * Die Nachnutzung der Daten und die Interpretierbarkeit der Daten wird vereinfacht und langfristig sichergestellt. Dies ist nicht nur für die eigene Nachnutzung der Daten von Vorteil, die Daten werden somit auch für Dritte nachvollziehbarer.
@@ -216,7 +216,7 @@ oder
 Daten und Prozesse sollten während eines Projekts, wie die Projektarbeit in der HIP, von Anfang an dokumentiert werden. Die Dokumentation dient der Projektplanung und -durchführung, indem wichtige Fragen im Umgang mit Daten beantwortet werden. Die nachfolgenden Leitfragen können während der HIP helfen, einer ausführlichen Projektdokumentation nachzukommen.
 
 <p align="center">
-    <img src="Materialien/img/Bevaringsplan_DigitalBevaring.png"  width="30%"/>
+    <img src="Materialien/img/Bevaringsplan_DigitalBevaring.png"  width="25%"/>
 </p>
 
 **Allgemein**
@@ -286,7 +286,7 @@ Damit Daten nicht Gefahr laufen, beschädigt zu werden, verloren zu gehen oder z
 **Worauf sollte ich achten?**
 
 <p align="center">
-    <img src="Materialien/img/Lagringsmedier_DigitalBevaring.png"  width="30%"/>
+    <img src="Materialien/img/Lagringsmedier_DigitalBevaring.png"  width="25%"/>
 </p>
 
 Die Sicherung der Daten sollte…
@@ -344,7 +344,7 @@ Daten sollten strukturiert und geordnet vorliegen, damit:
 [Quelle](https://www.forschungsdaten-bildung.de/dateien-benennen)
 
 <p align="center">
-    <img src="Materialien/img/Database_DigitalBevaring.png"  width="30%"/>
+    <img src="Materialien/img/Database_DigitalBevaring.png"  width="25%"/>
 </p>
 
 ### Gute Ordnerstruktur
