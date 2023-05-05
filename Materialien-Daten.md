@@ -167,6 +167,24 @@ Nach wissenschaftlichen Standards auffindbare Datensätze verfügen i. d. R. üb
 [Quelle](https://forschungsdaten.info/themen/finden-und-nachnutzen/zitieren-von-daten/).
 
 
+<p align="center">
+    <img src="Materialien/img/Screenshot_Bike-Sharing-Köln.png"  width="60%"/>
+</p>
+
+[Quelle](https://av.tib.eu/media/35422)
+
+<p align="center">
+    <img src="Materialien/img/Screenshot_Coffee-to-go.png"  width="60%"/>
+</p>
+
+[Quelle](https://www.govdata.de/web/guest/suchen/-/details/refill-stationen-coffee-to-go)
+
+<p align="center">
+    <img src="Materialien/img/Screenshot_Indikator_Klimasensitive_Vogelarten.png"  width="60%"/>
+</p>
+
+[Quelle](https://data.europa.eu/data/datasets/16f7a7a8-fc81-411d-bb06-11fd33805971?locale=de)
+
 
 
 ### Mögliche Zitation von Datensätzen
