@@ -355,7 +355,7 @@ Auf diese Weise ist das Risiko des Datenverlustes bestmöglichst reduziert.
 >Alternativ können Sie den QR-Code mit Ihrem Smartphone scannen, um zu dem Quiz zu gelangen: 
 
 <p align="center">
-    <img src="Materialien/img/Speichern_Test1.png">
+    <img src="Materialien/img/Quiz-Speichern.png">
 </p>
 
 ## Daten strukturieren & ordnen
@@ -471,6 +471,12 @@ Die Dateibenennungen sollten…
 
 *Empfehlung: Bei neuer Dateiversion oder Kopie einer bestehenden Datei wird im selben Schritt die vorherige Version in den Archivordner ("Archiv") im Hauptordner verschoben. Das vermeidet das Duplizieren und Splitten von Dateiversionen mit unterschiedlichen Bearbeitungsständen.
 
+>Testen Sie in [diesem Quiz](https://app.Lumi.education/run/CVERso) Ihr Wissen zum Thema „Dateien Benennen”.
+>Alternativ können Sie den QR-Code mit Ihrem Smartphone scannen, um zu dem Quiz zu gelangen: 
+
+<p align="center">
+    <img src="Materialien/img/Quiz-Benennungskonvention.png">
+</p>
 
 >Datum_[Status]-Dokumententyp-[Autor:in]-Inhalt[_Version]
 >Felder
@@ -486,3 +492,10 @@ Die Dateibenennungen sollten…
 > * Inhalt: Thema / Inhalt des Dokuments
 >
 > * Version: Bei versionierten Dokumenten wird die Version >bei jeder Änderung hochgezählt z.B. _v01, v02, ...
+
+>Testen Sie in [diesem zweiten Quiz](https://app.Lumi.education/run/GiSgT8 Ihr Wissen zum Thema „Dateien Benennen”.
+>Alternativ können Sie den QR-Code mit Ihrem Smartphone scannen, um zu dem Quiz zu gelangen: 
+
+<p align="center">
+    <img src="Materialien/img/Quiz-Benennungen.png">
+</p>
