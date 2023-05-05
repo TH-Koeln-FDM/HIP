@@ -209,7 +209,7 @@ oder
 
 # Daten und Dateien dokumentieren, speichern, strukturieren & ordnen
 
-[Hier kann die Checkliste zur Dokumentation, Speicherung, Strukturierung und Ordnung von Daten und Dateien für die HIP heruntergeladen werden](https://github.com/TH-Koeln-FDM/HIP/blob/main/20230502_Checkliste_Leitfragen_fuer_Studis_v4.docx).
+>[Hier kann die Checkliste zur Dokumentation, Speicherung, Strukturierung und Ordnung von Daten und Dateien für die HIP heruntergeladen werden](https://github.com/TH-Koeln-FDM/HIP/blob/main/20230502_Checkliste_Leitfragen_fuer_Studis_v4.docx).
 
 **Wieso überhaupt Daten und Dateien dokumentieren, speichern, strukturieren & ordnen?**
 
