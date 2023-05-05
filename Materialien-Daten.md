@@ -165,7 +165,7 @@ Nach wissenschaftlichen Standards auffindbare Datensätze verfügen i. d. R. üb
 |Ab fünf Namen sollte mit „et al.” oder Ähnlichem abgekürzt werden|Jahr der Veröffentlichung des Datensatzes|Titel und eventuell weitere Titel der Studie/des Datensatzes| Versionsnummer der Ressource| Name des Datenzentrums/der Institution, das/die Ressource veröffentlicht hat.|Datensatz, Text oder andere Ressourcentypen| Hier erscheint ein Persistent Identifier. Um direkt auf die Quelle des Objektes verweisen zu können, sollte der DOI-Name entweder mit der URL des Resolvers abgedruckt (http://doi.org/doi:10.4232/1.10770) oder – platzsparender – mit einem Hyperlink (doi:10.4232/1.10770) unterlegt werden.|
 
 
->**Quellen der Beispielszenarien**
+>**Beispielszenarien**
 
 **Beispielszenario 1: Interaktive Mobilitätsstudie: Bike Sharing in Köln**
 
