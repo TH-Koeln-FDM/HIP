@@ -7,7 +7,7 @@
 
 Quelle: [ResearchDataRepositories History Digitization von Jørgen Stamp (cc-by)](https://commons.wikimedia.org/wiki/File:History_Digitization.png).
 
-Daten nehmen insbesondere mit zunehmender Digitalisierung immer mehr an Bedeutung zu. Sie umgeben uns und bestimmen unseren Alltag. Der richtige Umgang mit Daten ist daher von großer Wichtigkeit. Daher beschäftigen wir uns in der HIP (im SoSe23) näher mit dem Thema „Datenuniversen”.
+Daten nehmen insbesondere mit zunehmender Digitalisierung immer mehr an Bedeutung zu. Sie umgeben uns und bestimmen unseren Alltag. Der richtige Umgang mit Daten ist daher von großer Wichtigkeit. Daher beschäftigen wir uns in der HIP (im WS 23/34) näher mit dem Thema „Datenuniversen”.
 
 [Erfahren Sie mehr über Daten](https://datenverstehen.de/was-sind-eigentlich-die-daten/).
 
